@@ -18,6 +18,7 @@
 <strong>Welcome to CbassOS v2!</strong>
 </pre>
 
+<pre>
 [cbass ~] λ <strong>cat projects.txt</strong>
 <strong>[+]</strong> Twist — A small, lightweight web framework in Python
 <strong>[?]</strong> Coming Soon — More details to be released!
