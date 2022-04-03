@@ -1,32 +1,17 @@
-<pre>
-  /$$$$$$  /$$                                     /$$$$$$   /$$$$$$                    /$$$$$$ 
- /$$__  $$| $$                                    /$$__  $$ /$$__  $$                  /$$__  $$
-| $$  \__/| $$$$$$$   /$$$$$$   /$$$$$$$ /$$$$$$$| $$  \ $$| $$  \__/       /$$    /$$|__/  \ $$
-| $$      | $$__  $$ |____  $$ /$$_____//$$_____/| $$  | $$|  $$$$$$       |  $$  /$$/  /$$$$$$/
-| $$      | $$  \ $$  /$$$$$$$|  $$$$$$|  $$$$$$ | $$  | $$ \____  $$       \  $$/$$/  /$$____/ 
-| $$    $$| $$  | $$ /$$__  $$ \____  $$\____  $$| $$  | $$ /$$  \ $$        \  $$$/  | $$      
-|  $$$$$$/| $$$$$$$/|  $$$$$$$ /$$$$$$$//$$$$$$$/|  $$$$$$/|  $$$$$$/         \  $/   | $$$$$$$$
- \______/ |_______/  \_______/|_______/|_______/  \______/  \______/           \_/    |________/   
+<p align="center">
+  <img src="pic.png" />
+</p>
 
-                                "Spaghetti Code Extraordinaire(™)"     
+```python
+from SoftwareEngineer import ItsCbass
 
-<strong>[!]</strong> Loading Repos...
-<strong>[!]</strong> Loading Stars...
-<strong>[!]</strong> Loading Commits...
-<strong>[!]</strong> Staying at 127.0.0.1...
+def aboutMe():
+    name = "Sebastian Rivera"
+    title = "Jr. Dev"
+    contact = "ItsCbass#1614 [Discord]"
 
-<strong>Welcome to CbassOS v2!</strong>
-</pre>
-
-<pre>
-[cbass ~] λ <strong>cat projects.txt</strong>
-<strong>[+]</strong> Twist — A small, lightweight web framework in Python
-<strong>[?]</strong> Coming Soon — More details to be released!
-
-[cbass ~] λ <strong>cat goals.txt</strong>
-<strong>[>]</strong> Learn Go, Rust, and C++
-<strong>[>]</strong> Learn more algos!
-<strong>[>]</strong> Take an AP Computer Sci Class
-<strong>[>]</strong> Write more projects!
-<strong>[>]</strong> Start a blog (?)
-</pre>
+def code():
+    languages = ["Python", "C", "Go"]
+    frameworks = ["Pygame", "Django", "Flask"]
+    tools = ["Git", "GitHub", "VSCode", "Postman"]
+```
