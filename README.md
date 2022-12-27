@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pic.png" />
+  <img src="achivement.png" />
 </p>
 
 ```python
