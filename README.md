@@ -3,15 +3,15 @@
 </p>
 
 ```python
-from SoftwareEngineer import ItsCbass
+from Earth import ItsCbass
 
 def aboutMe():
     name = "Sebastian Rivera"
     title = "Jr. Dev"
-    contact = "ItsCbass#1614 [Discord]"
+    contact = "ItsCbass#9111 [Discord]"
 
 def code():
-    languages = ["Python", "C", "Go"]
+    languages = ["Python", "C", "Rust"]
     frameworks = ["Pygame", "Django", "Flask"]
     tools = ["Git", "GitHub", "VSCode", "Postman"]
 ```
