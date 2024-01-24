@@ -1,7 +1,8 @@
 
-<div align="center">
-<pre>
-..............
+<div align="CENTER">
+
+<pre>  
+.
             ..,;:ccc,.                             
           ......''';lxO.                           
 .....''''..........,:ld;                            
@@ -24,9 +25,10 @@
                                                   
                                                   
 </pre>
+
 <br><br>
 <pre>
-    💼 Cybersecurity Researcher @ 100S
+    💼 Cybersecurity Researcher
     🌙 Playing with fun languages • C • Rust • Go
     📚 Reverse Engineering • Pentesting
     🍂 Graphic Design • Games • Code
