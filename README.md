@@ -2,7 +2,7 @@
 <div align="CENTER">
 
 <pre>  
-.
+
             ..,;:ccc,.                             
           ......''';lxO.                           
 .....''''..........,:ld;                            
@@ -21,12 +21,10 @@
                                          ;l   ..
                                           .o
                                             c
-                                            .'
-                                                  
-                                                  
-</pre>
+                                            .'       
 
-<br><br>
+            
+</pre>
 <pre>
     💼 Cybersecurity Researcher
     🌙 Playing with fun languages • C • Rust • Go
